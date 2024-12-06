@@ -1,11 +1,13 @@
+import Footer from "./hey/components/Footer";
+
 function App() {
   return (
-    <div>
+    <Layout>
       <Header></Header>
       <Main></Main>
       <Footer></Footer>
-    </div>
-  )
+    </Layout>
+  );
 }
 
-export default App
+export default App;
