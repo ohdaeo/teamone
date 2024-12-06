@@ -1,4 +1,7 @@
 import Footer from "./hey/components/Footer";
+import Header from "./hoho/components/Header";
+import Main from "./subin/components/Main";
+import { Layout } from "./Layout";
 
 function App() {
   return (
