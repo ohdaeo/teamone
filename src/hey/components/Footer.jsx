@@ -1,6 +1,8 @@
+import { FooterWrap } from "../styles/footerStyle";
+
 const Footer = () => {
   return (
-    <div>
+    <FooterWrap>
       <div>logo</div>
       <div>
         <p>copyright ⓒ by WEBDESIGN all rights reserved</p>
@@ -10,7 +12,7 @@ const Footer = () => {
         <a href="#">sns</a>
         <a href="#">sns</a>
       </div>
-    </div>
+    </FooterWrap>
   );
 };
 
