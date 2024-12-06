@@ -66,9 +66,7 @@ const Header = () => {
               <li>SubMenu-1</li>
             </ul>
           </SubMenuDiv>
-        ) : (
-          ""
-        )}
+        ) : null}
       </HeaderMenuDiv>
     </HeaderDiv>
   );
